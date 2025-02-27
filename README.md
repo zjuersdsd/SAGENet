@@ -55,7 +55,3 @@ Run the [train.py](http://_vscodecontentref_/3) script to train the model:
     ```bash
     python train.py
     ```
-
-### Checking GPU Usage
-
-    nvitop
