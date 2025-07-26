@@ -55,5 +55,5 @@ Run the following command in the terminal to visualize the model's depth estimat
 
 ## Acknowledgement
 
-The code of this project is built upon the framework of [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://github.com/krantiparida/beyond-image-to-depth.git). We gratefully acknowledge the open-source code provided by Parida, as well as the datasets contributed by [BatiVision](https://github.com/AmandineBtto/Batvision-Dataset.git) and [VisualEchoes](https://github.com/facebookresearch/VisualEchoes.git).
+The code of this project is built upon the framework of [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://github.com/krantiparida/beyond-image-to-depth.git). We gratefully acknowledge the open-source code provided by _Beyond Image to Depth_, as well as the datasets contributed by [BatiVision](https://github.com/AmandineBtto/Batvision-Dataset.git) and [VisualEchoes](https://github.com/facebookresearch/VisualEchoes.git).
 
