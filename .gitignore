@@ -1,0 +1,8 @@
+# 忽略所有 .wav 文件
+dataset/
+
+# 忽略所有模型文件
+checkpoints/
+
+# 忽略可视化文件
+visualizations/
